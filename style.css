@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    color: #1E6091;
+}
+
+body {
+    background-color: #D9ED92;
+    margin: 0px;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+
+
+.top {
+    height: 500px;
+}
+
+section {
+    background-color: #76C893;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px 10px;
+}
+
+.part {
+    background-color: #52B69A;
+    float: left;
+    width: 63%;
+}
+
+
+.photo {
+    float: left;
+}
+
+.name {
+    font-size: 60px;
+}
+
+.slogan {
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+    font-family: 標楷體;
+}
